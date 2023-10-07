@@ -2,18 +2,18 @@
 
 **Arduino Voice Controlled Robotic Vehicle 🤖🗣️🚗**
 
-This repository contains a project for an Arduino-based voice-controlled robotic vehicle. The vehicle can be controlled using a variety of voice commands, such as "go forward", "turn left", "turn right", and "stop".
+This repository contains a project for an Arduino-based voice-controlled robotic vehicle. The vehicle can be controlled using a variety of voice commands, such as "move forward", "turn left", "turn right", and "stop".
 
 To build the vehicle, you will need the following components:
 
-* Arduino Uno
+* Arduino Uno 🔌
 * HC-05 Bluetooth module
-* Motor driver
+* Motor driver 
 * Two motors
-* Wheels
-* Battery
-* Microphone
-* Speaker
+* Wheels 🛞
+* Battery 🔋
+* Microphone 🎙️
+* Speaker 🔊
 
 Once you have gathered the components, you can follow the instructions in the accompanying tutorial to assemble the vehicle and program the Arduino.
 
@@ -38,17 +38,9 @@ You can also create more complex commands by combining the basic commands. For e
 
 If you have any feedback or suggestions, please feel free to create an issue in this repository. 💬
 
-**Emojis**
+**Final product**
 
-* 🤖 - Robot
-* 🗣️ - Speaking
-* 🚗 - Car
-* ⬆️ - Up
-* ⬅️ - Left
-* ➡️ - Right
-* ✋ - Stop
-* 📢 - Loudspeaker
-* ⚠️ - Warning
-* 💥 - Collision
+![WhatsApp Image 2023-10-02 at 15 09 37_00a441c4](https://github.com/Basim03/Voice-Controlled-Robotic-Vehicle/assets/108823665/9e543fb9-ce10-4fa3-a7de-71febde72fef)
 
-I hope this README is more helpful and fun!
+![WhatsApp Image 2023-10-02 at 15 09 36_aa0d4c7c](https://github.com/Basim03/Voice-Controlled-Robotic-Vehicle/assets/108823665/326ded7b-8316-442e-9db0-1991ac7d09fa)
+
